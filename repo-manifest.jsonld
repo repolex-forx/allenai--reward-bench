@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/reward-bench/commit/59f6ff7005a9f9484727ca27f5383420875e5dbf",
       "git:hexsha": "59f6ff7005a9f9484727ca27f5383420875e5dbf",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T19:32:52.531880+00:00"
     },
     {
       "@id": "https://repolex.ai/r/allenai/reward-bench/commit/7fe90b738309ec7ce720af4344554810be7d2447",
